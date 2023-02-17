@@ -8,5 +8,8 @@ The use of invertebrate-derived DNA (iDNA) is a promising non-invasive tool to m
 
 --------------------------------------------------------------
 ## Scripts
-This project contains the R scripts to run the statistical analysis and create the figures included in the above paper. The data required to run the scrips is provided in the "data" folder. The created figures are included in the "output" folder.
+This project contains the R scripts to run the statistical analysis and create the figures included in the above paper. The scripts are prepared to be run setting the project folder as working directory. All packages required are included in the file "source_packages". The data required to run the scrips is provided in the "data" folder. The created figures are included in the "output" folder. There are three scripts that can be ran independently:
+* _R_script_map_study_area_: creates map of the study area or Figure 1 of the paper
+* _R_script_plot_summaries_: creates the figures 2, 3 and S1 
+* _R_script_GLM_PCOA_: runs the statistical analyses and creates the associated figures 4 and 5
 
