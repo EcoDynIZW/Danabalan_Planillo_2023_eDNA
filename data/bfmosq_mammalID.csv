@@ -1,0 +1,57 @@
+DNA_no,Date ,Locality ,Kiez,DNA_concentration,12S_340_sanger,COI_sanger,16S
+BIBS_046,42940,NH-51,Grunewald_1,13.3,Capreolus capreolus,Aedes vexans,NA
+BIBS_047,42954,NH-51,Grunewald_1,19.8,Turdus philomelos,Culex pipiens,NA
+BIBS_048,42954,NH-51,Grunewald_1,5.42,Sus scrofa,Ochlerotatus sticticus ,NA
+BIBS_049,42970,NH-51,Grunewald_1,10.6,Capreolus capreolus,Aedes cinereus,NA
+BIBS_050,42970,NH-51,Grunewald_1,4.52,Vulpes vulpes,Aedes vexans,NA
+BIBS_051,42970,NH-51,Grunewald_1,7.9,Sus scrofa,Aedes rossicus,NA
+BIBS_052,42940,Nm_50,Grunewald_2,20.2,Sus scrofa,NA,NA
+BIBS_053,42954,Nm_50,Grunewald_2,6.1,Sus scrofa,Ochlerotatus sticticus,NA
+BIBS_054,42954,Nm_50,Grunewald_2,16.4,Sus scrofa,Ochlerotatus cantans,NA
+BIBS_055,42954,Nm_50,Grunewald_2,6.48,Capreolus capreolus,Aedes vexans,NA
+BIBS_056,42982,Nm_50,Grunewald_2,14.1,Sus scrofa,Aedes vexans,NA
+BIBS_057,42982,Nm_50,Grunewald_2,7.68,Capreolus capreolus,Aedes vexans,NA
+BIBS_058,42982,Nm_50,Grunewald_2,15.2,Capreolus capreolus,Aedes vexans,NA
+BIBS_059,42982,Nm_50,Grunewald_2,16.4,Capreolus capreolus,Aedes cinereus,NA
+BIBS_060,42953,OH_04,Spandau_2,25.8,Dama dama,Ochlerotatus cantans,NA
+BIBS_061,42947,OH-04,Spandau_2,7.24,Dama dama,Aedes vexans,NA
+BIBS_062,42947,OH-04,Spandau_2,11.4,NA,Aedes vexans,NA
+BIBS_063,42977,OH-04,Spandau_2,4.12,Dama dama,Aedes vexans,NA
+BIBS_064,42977,OH-04,Spandau_2,3,Dama dama,Aedes rossicus,NA
+BIBS_065,42977,OH-04,Spandau_2,10.8,Sus scrofa,NA,NA
+BIBS_066,42977,OH-04,Spandau_2,9.38,Dama dama,NA,NA
+BIBS_067,42977,OH-04,Spandau_2,12,Dama dama,Ochlerotatus cantans,NA
+BIBS_068,NA,Oh_07,Muggelsee,too high,Capreolus capreolus,Ochlerotatus annulipes,NA
+BIBS_069,NA,Oh_07,Muggelsee,81,Sus scrofa,Ochlerotatus annulipes,NA
+BIBS_070,NA,Oh_07,Muggelsee,80.6,Capreolus capreolus,Ochlerotatus excrucians,NA
+BIBS_071,08.26.17,OH_07,Muggelsee,7.32,Sus scrofa,Aedes vexans,Sus scrofa
+BIBS_072,08.26.17,OH_07,Muggelsee,12.8,Sus scrofa,Aedes vexans,Sus scrofa
+BIBS_073,08.26.17,OH_07,Muggelsee,1.99,Capreolus capreolus,Aedes vexans,NA
+BIBS_074,08.26.17,OH_07,Muggelsee,12.3,Capreolus capreolus,Aedes vexans,Capreolus capreolus
+BIBS_075,08.26.17,OH_07,Muggelsee,5.94,NA,Ochlerotatus punctor,NA
+BIBS_076,08.26.17,OH_07,Muggelsee,16.9,Capreolus capreolus,NA,Capreolus capreolus
+BIBS_077,08.26.17,OH_07,Muggelsee,7.18,Sus scrofa,Aedes vexans,Sus scrofa
+BIBS_078,NA,Oh_07,Muggelsee,85.6,NA,NA,NA
+BIBS_079,43016,OH_07,Muggelsee,4.22,Capreolus capreolus,Aedes vexans,Capreolus capreolus
+BIBS_080,07.31.17,OL_16,BF,14.4,Capreolus capreolus,Aedes vexans,Capreolus capreolus
+BIBS_081,NA,Oh_07,Muggelsee,73.6,Capreolus capreolus,Ochlerotatus annulipes,NA
+BIBS_082,07.31.17,OM_06,Spandau_1,16.8,Sus scrofa,Ochlerotatus cantans,Sus scrofa
+BIBS_083,07.31.17,OM_06,Spandau_1,20.4,Capreolus capreolus,Ochlerotatus cantans,Capreolus capreolus
+BIBS_084,42977,Om_06,Spandau_1,13.5,Sus scrofa,Aedes vexans,Sus scrofa
+BIBS_085,08.17.17,OM_06,Spandau_1,6.18,Sus scrofa,Ochlerotatus sticticus,Sus scrofa
+BIBS_086,08.17.17,OM_06,Spandau_1,8.74,Dama dama,Aedes cinereus,NA
+BIBS_087,08.17.17,OM_06,Spandau_1,9.5,Dama dama,Aedes vexans,NA
+BIBS_088,08.17.17,OM_06,Spandau_1,10.1,Dama dama,Aedes vexans,NA
+BIBS_089,08.17.17,OM_06,Spandau_1,5.88,Sus scrofa,Aedes vexans,NA
+BIBS_095,NA,Oh_07,Muggelsee,60,Capreolus capreolus,Ochlerotatus punctor,Capreolus capreolus
+BIBS_137,06.22.17,NH_51,Grunewald_1,27.6,Sus scrofa,Ochlerotatus annulipes,Sus scrofa
+BIBS_138,06.22.17,NH_51,Grunewald_1,28.4,Capreolus capreolus,Ochlerotatus cantans,Capreolus capreolus
+BIBS_139,42940,Nm_50,Grunewald_2,5.66,Dama dama,Ochlerotatus sticticus,Sus scrofa
+BIBS_140,42947,Om_06,Spandau_1,8.62,Turdus philomelos,Aedes cinereus,NA
+BIBS_141,42947,Om_06,Spandau_1,10.2,Capreolus capreolus,Aedes vexans,NA
+BIBS_142,42998,Nm_50,Grunewald_2,11.9,Capreolus capreolus,Aedes vexans,NA
+BIBS_143,42973,Oh_07,Muggelsee,7.94,Capreolus capreolus,Ochlerotatus punctor,NA
+BIBS_146,NA,Om_06,Spandau_1,NA,NA,Ochlerotatus cantans,Sus scrofa
+BIBS_147,NA,Om_06,Spandau_1,NA,Sus scrofa,Ochlerotatus cantans,NA
+BIBS_148,NA,Om_06,Spandau_1,NA,Dama dama,Ochlerotatus cantans,NA
+BIBS_149,NA,Om_06,Spandau_1,NA,Capreolus capreolus,Aedes vexans,Capreolus capreolus

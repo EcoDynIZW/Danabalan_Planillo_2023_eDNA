@@ -1,0 +1,61 @@
+species,sample,plot,primer
+Canis lupus,3536,NH-51,16S
+Homo sapiens,3536,NH-51,16S
+Murinae,3536,NH-51,16S
+Myodes glareolus,3536,NH-51,16S
+Sus scrofa,3536,NH-51,16S
+Vulpes vulpes,3536,NH-51,16S
+Myodes glareolus,3537,NH-51,16S
+Homo sapiens,3538,NH-51,16S
+Murinae,3538,NH-51,16S
+Sus scrofa,3538,NH-51,16S
+Canis lupus,3539,NH-51,16S
+Meles meles,3539,NH-51,16S
+Murinae,3539,NH-51,16S
+Homo sapiens,M143,NH-51,16S
+Sus scrofa,M143,NH-51,16S
+Canis lupus,3541,NM-50,16S
+Vulpes vulpes,3541,NM-50,16S
+Canis lupus,3542,NM-50,16S
+Canis lupus,3543,NM-50,16S
+Myodes glareolus,3543,NM-50,16S
+Sus scrofa,3543,NM-50,16S
+Meles meles,3544,NM-50,16S
+Capreolus capreolus,3545,NM-50,16S
+Oryctolagus cuniculus,3545,NM-50,16S
+Sciurus vulgaris,3545,NM-50,16S
+Sus scrofa,3545,NM-50,16S
+Capreolus capreolus,3547,NM-50,16S
+Murinae,3547,NM-50,16S
+Myodes glareolus,3547,NM-50,16S
+Sus scrofa,3547,NM-50,16S
+Procyon lotor,M148,NM-50,16S
+Meles meles,3549,OH-07,16S
+Sus scrofa,3549,OH-07,16S
+Canis lupus,3550,OH-07,16S
+Sus scrofa,3550,OH-07,16S
+Procyon lotor,3552,OM-06,16S
+Vulpes vulpes,3552,OM-06,16S
+Homo sapiens,3553,OM-06,16S
+Sus scrofa,3553,OM-06,16S
+Murinae,3554,OM-06,16S
+Sus scrofa,3554,OM-06,16S
+Meles meles,3555,OM-06,16S
+Apodemus sylvaticus,3538,NH-51,12S
+Meles meles,3538,NH-51,12S
+Meles meles,3539,NH-51,12S
+Vulpes vulpes,3539,NH-51,12S
+Meles meles,3541,NM-50,12S
+Apodemus sylvaticus,3542,NM-50,12S
+Canis lupus,3542,NM-50,12S
+Apodemus sylvaticus,3543,NM-50,12S
+Canis lupus,3543,NM-50,12S
+Meles meles,3543,NM-50,12S
+Myodes glareolus,3543,NM-50,12S
+Sciurus vulgaris,3543,NM-50,12S
+Meles meles,3544,NM-50,12S
+Meles meles,3549,OH-07,12S
+Homo sapiens,3553,OM-06,12S
+Meles meles,3553,OM-06,12S
+Meles meles,3555,OM-06,12S
+Homo sapiens,M158,OM-06,12S

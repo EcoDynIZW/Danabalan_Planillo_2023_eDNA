@@ -1,0 +1,57 @@
+Locality,Plot,Sample,Date,Mosquito,Capreolus_capreolus,Dama_dama,Sus_scrofa,Vulpes_vulpes
+Grunewald-1,NH_51,46,24/07/2017,Aedes vexans,1,0,0,0
+Grunewald-1,NH_51,48,07/08/2017,Ochlerotatus sticticus ,0,0,1,0
+Grunewald-1,NH_51,49,23/08/2017,Aedes cinereus,1,0,0,0
+Grunewald-1,NH_51,50,23/08/2017,Aedes vexans,0,0,0,1
+Grunewald-1,NH_51,51,23/08/2017,Aedes rossicus,0,0,1,0
+Grunewald-1,NH_51,137,22/06/2017,Ochlerotatus annulipes,0,0,1,0
+Grunewald-1,NH_51,138,22/06/2017,Ochlerotatus cantans,1,0,0,0
+Grunewald-1,NH_51,144,,NA,0,0,0,0
+Grunewald-2,NM_50,52,24/07/2017,NA,0,0,1,0
+Grunewald-2,NM_50,53,07/08/2017,Ochlerotatus sticticus,0,0,1,0
+Grunewald-2,NM_50,54,07/08/2017,Ochlerotatus cantans,0,0,1,0
+Grunewald-2,NM_50,55,07/08/2017,Aedes vexans,1,0,0,0
+Grunewald-2,NM_50,56,04/09/2017,Aedes vexans,0,0,1,0
+Grunewald-2,NM_50,57,04/09/2017,Aedes vexans,1,0,0,0
+Grunewald-2,NM_50,58,04/09/2017,Aedes vexans,1,0,0,0
+Grunewald-2,NM_50,59,04/09/2017,Aedes cinereus,1,0,0,0
+Grunewald-2,NM_50,139,24/07/2017,Ochlerotatus sticticus,0,1,0,0
+Grunewald-2,NM_50,142,20/09/2017,Aedes vexans,1,0,0,0
+Muggelsee,OH_04,60,08/06/2017,Ochlerotatus cantans,0,1,0,0
+Muggelsee,OH_04,61,31/07/2017,Aedes vexans,0,1,0,0
+Muggelsee,OH_04,62,31/07/2017,Aedes vexans,0,0,0,0
+Muggelsee,OH_04,63,30/08/2017,Aedes vexans,0,1,0,0
+Muggelsee,OH_04,64,30/08/2017,Aedes rossicus,0,1,0,0
+Muggelsee,OH_04,65,30/08/2017,NA,0,0,1,0
+Muggelsee,OH_04,66,30/08/2017,NA,0,1,0,0
+Muggelsee,OH_04,67,30/08/2017,Ochlerotatus cantans,0,1,0,0
+Muggelsee,OH_04,133,,NA,0,0,1,0
+Spandau-2,OH_07,68,,Ochlerotatus annulipes,1,0,0,0
+Spandau-2,OH_07,69,,Ochlerotatus annulipes,0,0,1,0
+Spandau-2,OH_07,70,,Ochlerotatus excrucians,1,0,0,0
+Spandau-2,OH_07,71,26/08/2017,Aedes vexans,0,0,1,0
+Spandau-2,OH_07,72,26/08/2017,Aedes vexans,0,0,1,0
+Spandau-2,OH_07,73,26/08/2017,Aedes vexans,1,0,0,0
+Spandau-2,OH_07,74,26/08/2017,Aedes vexans,1,0,0,0
+Spandau-2,OH_07,75,26/08/2017,Ochlerotatus punctor,0,0,0,0
+Spandau-2,OH_07,76,26/08/2017,NA,1,0,0,0
+Spandau-2,OH_07,77,26/08/2017,Aedes vexans,0,0,1,0
+Spandau-2,OH_07,78,,NA,0,0,0,0
+Spandau-2,OH_07,79,10/08/2017,Aedes vexans,1,0,0,0
+Spandau-2,OH_07,81,,Ochlerotatus annulipes,1,0,0,0
+Spandau-2,OH_07,95,,Ochlerotatus punctor,1,0,0,0
+Spandau-2,OH_07,143,26/08/2017,Ochlerotatus punctor,1,0,0,0
+Spandau-1,OM_06,80,31/07/2017,Aedes vexans,1,0,0,0
+Spandau-1,OM_06,82,31/07/2017,Ochlerotatus cantans,0,0,1,0
+Spandau-1,OM_06,83,31/07/2017,Ochlerotatus cantans,1,0,0,0
+Spandau-1,OM_06,84,30/08/2017,Aedes vexans,0,0,1,0
+Spandau-1,OM_06,85,17/08/2017,Ochlerotatus sticticus,0,0,1,0
+Spandau-1,OM_06,86,17/08/2017,Aedes cinereus,0,1,0,0
+Spandau-1,OM_06,87,17/08/2017,Aedes vexans,0,1,0,0
+Spandau-1,OM_06,88,17/08/2017,Aedes vexans,0,1,0,0
+Spandau-1,OM_06,89,17/08/2017,Aedes vexans,0,0,1,0
+Spandau-1,OM_06,141,31/07/2017,Aedes vexans,1,0,0,0
+Spandau-1,OM_06,146,,Ochlerotatus cantans,0,0,0,0
+Spandau-1,OM_06,147,,Ochlerotatus cantans,0,0,1,0
+Spandau-1,OM_06,148,,Ochlerotatus cantans,0,1,0,0
+Spandau-1,OM_06,149,,Aedes vexans,1,0,0,0
